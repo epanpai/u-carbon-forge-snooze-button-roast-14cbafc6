@@ -1,0 +1,6 @@
+__pycache__/
+out/
+competition.json
+kit.json
+kit.tar.gz
+play-code.json
