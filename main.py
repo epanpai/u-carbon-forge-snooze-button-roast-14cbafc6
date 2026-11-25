@@ -4,6 +4,11 @@
 Writes exactly one funny line to /output/entry.txt (1-200 UTF-8 chars,
 not only whitespace), as the sealed scorer's gate requires.
 Deterministic, stdlib only, no network, no secrets, no randomness.
+
+The joke: the alarm clock is an overeager worker chasing overtime, and the
+punchline flips the blame — the snooze button, the supposed villain, is the
+only one in the house who knows what day it is. The twist lands in the last
+few words, and the whole line is sayable in one breath.
 """
 
 import os
